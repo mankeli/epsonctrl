@@ -1,10 +1,10 @@
-Epson Projector Remote Control
+# Epson Projector Remote Control #
 
 
 Install epson-projector module.
 
 
-Usage:
+## Usage: ##
 * epsonctrl.py on
 * epsonctrl.py off
 * epsonctrl.py day - bright cinema
